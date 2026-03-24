@@ -1,0 +1,208 @@
+anime_id,title,season_no,episodes,rating,episode_imputed,rating_imputed
+1,Naruto,1,220,8.4,False,False
+1,Naruto,2,500,8.3,False,False
+1,Naruto,3,360,8.2,False,False
+2,One Piece,1,61,8.9,False,False
+2,One Piece,2,77,8.9,False,False
+2,One Piece,3,85,8.8,False,False
+2,One Piece,4,77,8.7,False,False
+3,Attack on Titan,1,25,9.0,False,False
+3,Attack on Titan,2,12,9.1,False,False
+3,Attack on Titan,3,22,9.0,False,False
+3,Attack on Titan,4,29,9.1,False,False
+4,Death Note,1,37,9.0,False,False
+5,FMA Brotherhood,1,64,9.1,False,False
+6,Dragon Ball Z,1,39,8.8,False,False
+6,Dragon Ball Z,2,35,8.7,False,False
+6,Dragon Ball Z,3,34,8.6,False,False
+6,Dragon Ball Z,4,32,8.8,False,False
+6,Dragon Ball Z,5,26,8.5,False,False
+7,Sword Art Online,1,25,7.2,False,False
+7,Sword Art Online,2,24,7.0,False,False
+7,Sword Art Online,3,24,6.9,False,False
+7,Sword Art Online,4,25,7.4,False,False
+8,My Hero Academia,1,13,8.2,False,False
+8,My Hero Academia,2,25,8.4,False,False
+8,My Hero Academia,3,25,8.3,False,False
+8,My Hero Academia,4,25,8.5,False,False
+8,My Hero Academia,5,25,8.1,False,False
+8,My Hero Academia,6,25,8.3,False,False
+8,My Hero Academia,7,25,8.3,False,True
+9,Demon Slayer,1,26,8.9,False,False
+9,Demon Slayer,2,7,9.1,False,False
+9,Demon Slayer,3,11,8.9,False,False
+9,Demon Slayer,4,11,9.0,False,False
+10,Hunter x Hunter,1,148,9.0,False,False
+11,Tokyo Ghoul,1,12,7.8,False,False
+11,Tokyo Ghoul,2,12,6.5,False,False
+11,Tokyo Ghoul,3,12,7.3,False,False
+11,Tokyo Ghoul,4,12,7.1,False,False
+12,Bleach,1,366,7.9,False,False
+12,Bleach,2,366,8.2,False,False
+13,One Punch Man,1,12,8.8,False,False
+13,One Punch Man,2,12,7.4,False,False
+14,Fairy Tail,1,175,8.0,False,False
+14,Fairy Tail,2,102,7.9,False,False
+14,Fairy Tail,3,138,7.8,False,False
+15,Steins;Gate,1,24,9.1,False,False
+15,Steins;Gate,2,23,8.2,False,False
+16,Code Geass,1,25,8.7,False,False
+16,Code Geass,2,25,8.9,False,False
+17,Neon Genesis Evangelion,1,26,8.5,False,False
+18,Cowboy Bebop,1,26,8.9,False,False
+19,Vinland Saga,1,24,8.8,False,False
+19,Vinland Saga,2,24,9.0,False,False
+20,Jujutsu Kaisen,1,24,8.7,False,False
+20,Jujutsu Kaisen,2,23,9.0,False,False
+21,Violet Evergarden,1,13,8.5,False,False
+21,Violet Evergarden,2,13,8.9,False,False
+22,Your Lie in April,1,22,8.7,False,False
+23,Haikyuu!!,1,25,8.7,False,False
+23,Haikyuu!!,2,25,8.8,False,False
+23,Haikyuu!!,3,10,8.7,False,False
+23,Haikyuu!!,4,25,9.0,False,False
+24,Re:Zero,1,25,8.3,False,False
+24,Re:Zero,2,25,8.6,False,False
+25,Overlord,1,13,7.9,False,False
+25,Overlord,2,13,7.8,False,False
+25,Overlord,3,13,7.8,False,False
+25,Overlord,4,13,7.8,False,False
+26,Black Clover,1,170,7.7,False,False
+27,Mob Psycho 100,1,12,8.5,False,False
+27,Mob Psycho 100,2,13,8.8,False,False
+27,Mob Psycho 100,3,12,8.8,False,False
+28,Assassination Classroom,1,22,8.1,False,False
+28,Assassination Classroom,2,25,8.2,False,False
+29,Sword Art Online,1,25,7.2,False,False
+29,Sword Art Online,2,24,7.0,False,False
+29,Sword Art Online,3,24,6.9,False,False
+29,Sword Art Online,4,25,7.4,False,False
+30,No Game No Life,1,12,8.1,False,False
+31,Toradora!,1,25,8.2,False,False
+32,Clannad,1,23,8.8,False,False
+32,Clannad,2,24,9.1,False,False
+33,Angel Beats!,1,13,8.2,False,False
+34,Erased,1,12,8.6,False,False
+35,Dr. Stone,1,24,8.3,False,False
+35,Dr. Stone,2,11,8.3,False,False
+35,Dr. Stone,3,18,8.5,False,False
+36,The Promised Neverland,1,12,8.6,False,False
+36,The Promised Neverland,2,11,6.4,False,False
+37,Fruits Basket,1,13,8.2,False,False
+37,Fruits Basket,2,25,8.7,False,False
+37,Fruits Basket,3,13,8.8,False,False
+38,FMA 2003,1,51,8.0,False,False
+39,Samurai Champloo,1,26,8.5,False,False
+40,Gurren Lagann,1,27,8.7,False,False
+41,Kill la Kill,1,24,8.1,False,False
+42,Noragami,1,12,8.1,False,False
+42,Noragami,2,13,8.3,False,False
+43,Soul Eater,1,51,7.9,False,False
+44,Blue Exorcist,1,25,7.5,False,False
+44,Blue Exorcist,2,12,7.7,False,False
+45,Darker than Black,1,25,8.1,False,False
+45,Darker than Black,2,12,7.4,False,False
+46,Ouran Host Club,1,26,8.3,False,False
+47,Seraph of the End,1,12,7.5,False,False
+47,Seraph of the End,2,12,7.6,False,False
+48,Shield Hero,1,25,8.1,False,False
+48,Shield Hero,2,13,7.6,False,False
+48,Shield Hero,3,12,7.8,False,False
+49,Mushishi,1,26,8.7,False,False
+49,Mushishi,2,20,8.8,False,False
+50,Made in Abyss,1,13,8.7,False,False
+50,Made in Abyss,2,12,9.0,False,False
+51,Demon Slayer,1,26,8.9,False,False
+51,Demon Slayer,2,7,9.1,False,False
+51,Demon Slayer,3,11,8.9,False,False
+51,Demon Slayer,4,11,9.0,False,False
+52,Danganronpa,1,13,7.5,False,False
+52,Danganronpa,2,13,7.2,False,False
+52,Danganronpa,3,13,7.4,False,False
+53,Accel World,1,24,7.4,False,False
+54,Log Horizon,1,25,7.9,False,False
+54,Log Horizon,2,25,7.6,False,False
+54,Log Horizon,3,12,7.5,False,False
+55,Madoka Magica,1,12,8.7,False,False
+55,Madoka Magica,2,12,8.5,False,False
+55,Madoka Magica,3,12,8.6,False,False
+56,Psycho-Pass,1,22,8.4,False,False
+56,Psycho-Pass,2,11,7.8,False,False
+56,Psycho-Pass,3,8,7.9,False,False
+57,Space Brothers,1,99,8.7,False,False
+58,Gintama,1,201,8.9,False,False
+58,Gintama,2,51,9.0,False,False
+58,Gintama,3,33,9.1,False,False
+58,Gintama,4,13,9.0,False,False
+58,Gintama,5,15,9.1,False,False
+59,Nana,1,47,8.5,False,False
+60,Anohana,1,11,8.4,False,False
+61,Grave of the Fireflies,1,1,8.5,False,False
+62,Princess Mononoke,1,1,8.7,False,False
+63,Spirited Away,1,1,8.8,False,False
+64,Howl's Moving Castle,1,1,8.6,False,False
+65,Your Name,1,1,8.9,False,False
+66,A Silent Voice,1,1,8.9,False,False
+67,Weathering with You,1,1,8.5,False,False
+68,Promare,1,1,8.0,False,False
+69,Berserk,1,25,8.7,False,False
+69,Berserk,2,24,7.1,False,False
+69,Berserk,3,24,6.9,False,False
+70,Inuyasha,1,167,8.1,False,False
+70,Inuyasha,2,26,8.0,False,False
+71,Sailor Moon,1,46,8.1,False,False
+71,Sailor Moon,2,43,8.0,False,False
+71,Sailor Moon,3,38,8.1,False,False
+71,Sailor Moon,4,39,7.9,False,False
+71,Sailor Moon,5,34,7.9,False,False
+72,Cardcaptor Sakura,1,70,8.3,False,False
+72,Cardcaptor Sakura,2,22,8.6,False,False
+73,Digimon Adventure,1,54,8.0,False,False
+73,Digimon Adventure,2,50,8.1,False,False
+73,Digimon Adventure,3,52,7.6,False,False
+74,Pokemon,1,276,7.5,False,False
+74,Pokemon,2,192,7.4,False,False
+74,Pokemon,3,191,7.3,False,False
+74,Pokemon,4,193,7.1,False,False
+75,Dragon Ball,1,153,8.5,False,False
+76,Dragon Ball Super,1,131,7.5,False,False
+77,Yu-Gi-Oh!,1,27,7.5,False,False
+77,Yu-Gi-Oh!,2,27,7.6,False,False
+77,Yu-Gi-Oh!,3,27,7.5,False,False
+77,Yu-Gi-Oh!,4,27,7.4,False,False
+77,Yu-Gi-Oh!,5,27,7.3,False,False
+78,Beyblade,1,51,7.2,False,False
+78,Beyblade,2,52,7.1,False,False
+78,Beyblade,3,52,7.0,False,False
+79,Shaman King,1,64,7.8,False,False
+79,Shaman King,2,52,7.7,False,False
+80,Rurouni Kenshin,1,95,8.3,False,False
+80,Rurouni Kenshin,2,95,8.7,False,False
+81,Black Butler,1,24,7.8,False,False
+81,Black Butler,2,12,7.5,False,False
+81,Black Butler,3,10,7.6,False,False
+82,Pandora Hearts,1,25,8.0,False,False
+83,D.Gray-man,1,103,8.0,False,False
+83,D.Gray-man,2,13,7.9,False,False
+84,Blue Exorcist,1,25,7.5,False,False
+84,Blue Exorcist,2,12,7.7,False,False
+85,Magi,1,25,8.1,False,False
+85,Magi,2,25,8.1,False,False
+86,Akame ga Kill!,1,24,7.8,False,False
+87,Charlotte,1,13,7.9,False,False
+88,Little Witch Academia,1,25,8.0,False,False
+89,Banana Fish,1,24,8.5,False,False
+90,91 Days,1,13,8.1,False,False
+91,Dororo,1,24,8.3,False,False
+92,Megalo Box,1,13,8.1,False,False
+92,Megalo Box,2,13,8.0,False,False
+93,Kabaneri,1,12,7.5,False,False
+94,Sirius the Jaeger,1,12,7.7,False,False
+95,Given,1,11,8.3,False,False
+96,Sk8 the Infinity,1,12,8.1,False,False
+97,Carole & Tuesday,1,24,7.9,False,False
+98,Link Click,1,11,8.8,False,False
+98,Link Click,2,16,9.0,False,False
+99,Chainsaw Man,1,12,8.6,False,False
+100,Spy x Family,1,25,8.6,False,False
+100,Spy x Family,2,25,8.6,False,False
